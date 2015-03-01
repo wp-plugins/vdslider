@@ -1,10 +1,10 @@
 === vdSlider ===
 Contributors: verdande, nodesagency
-Donate link: http://www.nodesagency.com
+Donate link: http://www.billigt-internet.com
 Tags: simple slider, jquery slider, nivo slider
 Requires at least: 3.0.1
-Tested up to: 3.4
-Stable tag: 1.0
+Tested up to: 4.1.1
+Stable tag: 1.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -29,10 +29,13 @@ Simply use the shortcode [vds-shortcode]
 
 = 1.0 =
 * First version created and set for review at the wordpress extension directory.
+= 1.1 =
+* Updated Stable tag, and Tested up to tag, along with replacing donation link with correct one.
 
 == Upgrade Notice ==
 
 = 1.0 =
 First version created and set for review at the wordpress extension directory.
-
+= 1.1 =
+Can be upgraded without any worries.
 
